@@ -1,0 +1,14 @@
+p {
+	border: 1px dashed black;
+	text-align: center;
+}
+	
+.caja{
+	width: 300px;
+	height: 100px;
+	background-color: #FFCCCC;
+    padding: 10px 20px 1px 160px;
+    margin: 10px;
+	border: 8px solid purple;
+
+}
